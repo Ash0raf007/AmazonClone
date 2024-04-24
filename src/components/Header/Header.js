@@ -37,7 +37,7 @@ function Header() {
             <span className="header-optionLineTwo">& Orders</span>
           </div>
         </Link>
-        <div className="header-option">
+        <div className="header-option prime">
           <span className="header-optionLineOne">Your</span>
           <span className="header-optionLineTwo">Prime</span>
         </div>
